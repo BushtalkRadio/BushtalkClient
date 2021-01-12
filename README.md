@@ -4,13 +4,15 @@ Bushtalk Radio is a [free website](https://www.bushtalkradio.com) that allows yo
 
 The idea is simple: choose somewhere you'd like to visit on our [map](https://www.bushtalkradio.com), once you arrive at your destination an audio tour will automatically start playing about the area.
 
-We have 1201 destinations for you to explore, each with an individual audio tour. We have all in-game POIs (including Japan and USA update) as well as famous landmarks around the world such as mountains, lakes and National Parks.
+We have thousands of destinations for you to explore, each with an individual audio tour. We have all in-game POIs (including Japan and USA update) as well as famous landmarks around the world such as mountains, lakes and National Parks.
+
+Users can add custom locations and write their own audio tours. Just write an interesting, witty script and we'll create the audio tour for you. Not the creative type? Autogenerate one instead, we won't judge you.
 
 ## Features
 
-* **Dynamic audio tours** - Fly anywhere in the world and an audio tour will automatically start playing if you're close enough
+* **Dynamic audio tours** - Fly anywhere in the world and an audio tour will automatically start playing upon your arrival
 
-* **1201 Landmarks and POIs** - We also have all in-game airports on our map to help you plan your bush trip
+* **Thousands of landmarks and POIs** - We also have all in-game airports on our map to help you plan your bush trip
 
 * **Track your flight** - Use our map on a browser or even on your phone to track your flight path
 
