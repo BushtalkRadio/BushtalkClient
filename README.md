@@ -4,7 +4,7 @@ Bushtalk Radio is a [free website](https://www.bushtalkradio.com) that allows yo
 
 The idea is simple: choose somewhere you'd like to visit on our [map](https://www.bushtalkradio.com), once you arrive at your destination an audio tour will automatically start playing about the area.
 
-We have thousands of destinations for you to explore, each with an individual audio tour. We have all in-game POIs (including Japan and USA update) as well as famous landmarks around the world such as mountains, lakes and National Parks. 
+We have thousands of destinations for you to explore, each with an individual audio tour. We have all in-game POIs (including Japan and USA update) as well as hundreds of community created content: national parks, active volcanoes, historical battles - there's something for everyone.
 
 Users can add custom locations and write their own audio tours. Just write an interesting, witty script and we'll create the audio tour for you. Not the creative type? Autogenerate one instead, we won't judge you.
 
