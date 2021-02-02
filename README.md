@@ -1,39 +1,28 @@
 # Bushtalk Radio
 
-Bushtalk Radio is a [free website](https://www.bushtalkradio.com) that allows you to explore the world in Microsoft Flight Simulator 2020 with a virtual tour guide by your side.
+Bushtalk Radio is a community driven project with the aim to fill the empty world of MSFS2020 with thousands of additional landmarks and POIs. Each landmark has a unique audio tour that is automatically played on arrival. Think of it as having a virtual tour guide by your side.
 
-The idea is simple: choose somewhere you'd like to visit on our [map](https://www.bushtalkradio.com), once you arrive at your destination an audio tour will automatically start playing about the area.
+We have audio tours for all in-game POIs (including Japan and USA update) as well as hundreds of community created content: national parks, forests, islands, active volcanoes, historical battles - there's something for everyone.
 
-We have thousands of destinations for you to explore, each with an individual audio tour. We have all in-game POIs (including Japan and USA update) as well as hundreds of community created content: national parks, active volcanoes, historical battles - there's something for everyone.
+There are 3 components to Bushtalk Radio:
 
-Users can add custom locations and write their own audio tours. Just write an interesting, witty script and we'll create the audio tour for you. Not the creative type? Autogenerate one instead, we won't judge you.
+* **Bushtalk Radio [website](https://www.bushtalkradio.com)** - This is where our users upload landmarks and POIs. You will also need to have the website open for the audio tours to be played.
 
-## Features
+* **Bushtalk [client](https://bushtalkradioclient-dist.s3.amazonaws.com/BushtalkClient.zip)** - The client is needed to upload your airplane location to our server. This is what allows us to automatically play the audio tour based on your in-game location.
 
-* **Dynamic audio tours** - Fly anywhere in the world and an audio tour will automatically start playing upon your arrival
-
-* **Track your flight** - Use our map on a browser or even on your phone to track your flight path
-
-* **Audio Directions** - Get audio directions when you set a destination. This is great in VR as you won't have to keep looking at the map
-
-* **Write your own tours** - Add custom locations and write your own audio tours. Write the script and we'll generate the audio for you
+* **(OPTIONAL) Bushtalk World Landmarks Pack** - This addon allows you to see all of the custom POI markers in-game. This file will be uploaded monthly to include all of the landmarks and POIs submitted on the Bushtalk Radio website.
 
 
 ## How to use
 
-While you can still use the website on mobile to track your flight, we recommend using your computer for the best experience. 
-
-There are two ways to use Bushtalk Radio: with or without the Bushtalk Client.
-
-### I want to use the client
-
-Using the client allows you to track your in-game location. This will provide the best experience as the audio tours will play automatically upon arrival.
+While you can still use the website on mobile to track your flight, we recommend using the computer you'll be playing MSFS2020 on as the browser needs to be open for the audio tours to be played.
 
 1. Make an account at https://www.bushtalkradio.com and log in
-2. Download the [Bushtalk Client](https://bushtalkradioclient-dist.s3.amazonaws.com/BushtalkClient.zip) and log in
-3. Browse the map and find a destination that interests you and note the nearest airport in the sidebar
-4. Run Microsoft Flight Simulator and spawn at the airport, you should see your plane being tracked on the map
-5. Fly towards your destination, upon your arrival the audio tour will play.
+2. Download the "Bushtalk World Landmarks Pack" addon and install it to your community folder
+3. Download the [Bushtalk Client](https://bushtalkradioclient-dist.s3.amazonaws.com/BushtalkClient.zip) and log in
+4. Use our website or the in-game map to find an intresting POI to explore and spawn at the nearest airport
+5. If you've logged in with the client, then you should see your plane being tracked on the website
+6. Fly towards your destination, if you installed the "World Landmarks Pack" then you'll see the POI marker in-game and as you approach the audio tour will play automatically.
 
 ### I don't want to use the client
 
