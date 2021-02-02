@@ -12,6 +12,8 @@ There are 3 components to Bushtalk Radio:
 
 * **(OPTIONAL) Bushtalk World Landmarks Pack** - This addon allows you to see all of the custom POI markers in-game. This file will be uploaded monthly to include all of the landmarks and POIs submitted on the Bushtalk Radio website.
 
+[My image](https://i.imgur.com/T3rQv6z.jpg)
+
 
 ## How to use
 
