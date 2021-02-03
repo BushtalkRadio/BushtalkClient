@@ -10,7 +10,7 @@ There are 3 components to Bushtalk Radio:
 
 * **[Bushtalk client](https://bushtalkradioclient-dist.s3.amazonaws.com/BushtalkClient.zip)** - The client is needed to upload your airplane location to our server. This is what allows us to automatically play the audio tour based on your in-game location.
 
-* **(OPTIONAL) [Bushtalk World Landmarks Pack](https://flightsim.to/file/7285/bushtalk-radio-world-landmarks-pack)** - This addon allows you to see all of the custom POI markers in-game. This file will be uploaded monthly to include all of the landmarks and POIs submitted on the Bushtalk Radio website.
+* **(OPTIONAL) [Bushtalk World Landmarks Pack](https://flightsim.to/file/7285/bushtalk-radio-world-landmarks-pack)** - This addon allows you to see all of the custom POI markers in-game. This file will be updated monthly to include all of the landmarks and POIs submitted on the Bushtalk Radio website.
 
 
 ## How to use
