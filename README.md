@@ -1,8 +1,10 @@
 # Bushtalk Radio
 
-Bushtalk Radio is a community driven project with the aim to fill the empty world of MSFS2020 with thousands of additional landmarks and POIs. Each landmark has a unique audio tour that is automatically played on arrival. Think of it as having a virtual tour guide by your side.
+Bushtalk Radio is a community driven project with the aim to fill the world of MSFS with thousands of interesting landmarks and POIs. Each landmark has a unique audio tour that is automatically played based on your in-game location.
 
 We have audio tours for all in-game POIs (including Japan and USA update) as well as hundreds of community created content with more being added every day: national parks, forests, islands, active volcanoes, historical battles - there's something for everyone.
+
+Users can add custom locations and write their own audio tours. Just write an interesting, witty script and we'll create the audio tour for you. Not the creative type? Autogenerate one with our Wiki-Import tool instead, we won't judge you. The goal is introduce players to amazing locations around the world and maybe learn something new along the way.
 
 There are 3 components to Bushtalk Radio:
 
