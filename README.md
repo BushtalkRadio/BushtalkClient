@@ -45,9 +45,9 @@ You can still use Bushtalk Radio without downloading the client but you won't be
 
 ## FAQ
 
-### How long are the audio tours?
+### I love the idea! How can I support the project?
 
-They are typically 1-3 minutes long depending on the landmark
+Help us by creating as many high quality landmarks with well written audio tours. You can also help by promoting the project to fellow flightsimmers. Finally, if you really love what we're doing then [help us pay for server costs](https://www.paypal.com/donate?hosted_button_id=PNDL5HN4K4KJN). Any amount is welcome.
 
 ### I have a feature request or bug to report
 
