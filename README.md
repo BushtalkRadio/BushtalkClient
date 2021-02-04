@@ -4,7 +4,7 @@ Bushtalk Radio is a community driven project with the aim to fill the world of M
 
 We have audio tours for all in-game POIs (including Japan and USA update) as well as hundreds of community created content with more being added every day: national parks, forests, islands, active volcanoes, historical battles - there's something for everyone.
 
-Users can add custom locations and write their own audio tours. Just write an interesting, witty script and we'll create the audio tour for you. Not the creative type? Autogenerate one with our Wiki-Import tool instead, we won't judge you. The goal is introduce players to amazing locations around the world and maybe learn something new along the way.
+Users can add custom locations and write their own audio tours. Just write an interesting, witty script and we'll create the audio tour for you. Not the creative type? Autogenerate one with our Wikipedia Import tool, we won't judge you. The goal is introduce players to amazing locations around the world and maybe learn something new along the way.
 
 There are 3 components to Bushtalk Radio:
 
