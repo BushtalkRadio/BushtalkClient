@@ -14,15 +14,14 @@ There are 3 components to Bushtalk Radio:
 
 * **[Bushtalk World Landmarks Pack](https://flightsim.to/file/7285/bushtalk-radio-world-landmarks-pack)** (OPTIONAL) - This addon allows you to see all of the custom POI markers in-game. This file will be updated monthly to include all of the landmarks and POIs submitted on the Bushtalk Radio website.
 
-Some great locations for you to get started:
+Here are some of the best Bushtalk Radio has to offer:
 
-[Second Punic War: Battle of Cannae - part of a 11-part audio touir](https://bushtalkradio.com/?landmark=1437)
-[World's Largest Beaver Dam ](https://bushtalkradio.com/?landmark=1426)
-[Sinking of the Titanic](https://bushtalkradio.com/?landmark=1425)
-[Fordlândia - a failed experiement in the Amazon](https://bushtalkradio.com/?landmark=1220)
-[Galápagos Islands - many islands and volcanoes for you to explore](https://bushtalkradio.com/?landmark=1397)
-[Flevoland - god built the world, the Dutch built the Netherlands. Find out why](https://bushtalkradio.com/?landmark=1591)
-
+1. [Second Punic War: Battle of Cannae ](https://bushtalkradio.com/?landmark=1437) - part of a 11-part audio tour covering the Second Punic War
+2. [World's Largest Beaver Dam ](https://bushtalkradio.com/?landmark=1426) - a dam so big that can be seen from space
+3. [Sinking of the Titanic](https://bushtalkradio.com/?landmark=1425) - a tragic loss of life in the middle of the Atlantic
+4. [Fordlândia](https://bushtalkradio.com/?landmark=1220) - a failed experiment deep in the Amazon
+5. [Galápagos Islands](https://bushtalkradio.com/?landmark=1397) - Many islands and volcanoes in close proximity. Find out what makes this place so unique.
+6. [Flevoland](https://bushtalkradio.com/?landmark=1591) - If god built the world, then the Dutch built the Netherlands. Find out why
 
 ## How to use
 
