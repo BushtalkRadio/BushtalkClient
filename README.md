@@ -4,15 +4,15 @@ Bushtalk Radio is a community driven project with the aim to fill the world of M
 
 We have audio tours for all in-game POIs (including Japan and USA update) as well as hundreds of community created content with more being added every day: national parks, forests, islands, active volcanoes, historical battles - there's something for everyone.
 
-Users can add custom locations and write their own audio tours. Just write an interesting, witty script and we'll create the audio tour for you. Not the creative type? Autogenerate one with our Wikipedia Import tool, we won't judge you. The goal is introduce players to amazing locations around the world and maybe learn something new along the way.
+Users can add custom locations and write their own audio tours. Just write an interesting, witty script and we'll create the audio tour for you. Not the creative type? Autogenerate one with our Wikipedia Import tool, we won't judge you. We want to introduce players to amazing locations around the world. Add them as part of your next bush trip or fly aimlessly and stumble into something special.
 
 There are 3 components to Bushtalk Radio:
 
 * **[Bushtalk Radio website](https://www.bushtalkradio.com)** - This is where our users upload landmarks and POIs. Once you connect, the audio will be played through the browser so make sure to keep this open.
 
-* **[Bushtalk client](https://bushtalkradioclient-dist.s3.amazonaws.com/BushtalkClient.zip)** - The client is needed to upload your airplane location to our server. This is what allows us to automatically play the audio tour based on your in-game location. Windows may flag it as a virus but this is a false positive. See FAQ below for more information.
+* **[Bushtalk client](https://bushtalkradioclient-dist.s3.amazonaws.com/BushtalkClient.zip)** - The client is needed to upload your airplane location to our server. This is what allows us to automatically play the audio tour based on your in-game location. Windows may flag it as a virus but this is a false positive. See FAQ below for more information for peace of mind
 
-* **(OPTIONAL) [Bushtalk World Landmarks Pack](https://flightsim.to/file/7285/bushtalk-radio-world-landmarks-pack)** - This addon allows you to see all of the custom POI markers in-game. This file will be updated monthly to include all of the landmarks and POIs submitted on the Bushtalk Radio website.
+* **[Bushtalk World Landmarks Pack](https://flightsim.to/file/7285/bushtalk-radio-world-landmarks-pack)** (OPTIONAL) - This addon allows you to see all of the custom POI markers in-game. This file will be updated monthly to include all of the landmarks and POIs submitted on the Bushtalk Radio website.
 
 
 ## How to use
