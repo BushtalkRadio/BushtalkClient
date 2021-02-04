@@ -8,7 +8,7 @@ There are 3 components to Bushtalk Radio:
 
 * **[Bushtalk Radio website](https://www.bushtalkradio.com)** - This is where our users upload landmarks and POIs. You will also need to have the website open for the audio tours to be played.
 
-* **[Bushtalk client](https://bushtalkradioclient-dist.s3.amazonaws.com/BushtalkClient.zip)** - The client is needed to upload your airplane location to our server. This is what allows us to automatically play the audio tour based on your in-game location.
+* **[Bushtalk client](https://bushtalkradioclient-dist.s3.amazonaws.com/BushtalkClient.zip)** - The client is needed to upload your airplane location to our server. This is what allows us to automatically play the audio tour based on your in-game location. Windows may flag it as a virus but this is a false positive. See FAQ below for more information
 
 * **(OPTIONAL) [Bushtalk World Landmarks Pack](https://flightsim.to/file/7285/bushtalk-radio-world-landmarks-pack)** - This addon allows you to see all of the custom POI markers in-game. This file will be updated monthly to include all of the landmarks and POIs submitted on the Bushtalk Radio website.
 
@@ -45,9 +45,9 @@ You can send me a message directly on [/u/bushtalkradio](https://www.reddit.com/
 
 ### Windows is flagging the Bushtalk Client .exe/.zip file as a virus
 
-Unfortunately that's the case whenever you try download a .exe file. You should be able to override and download anyway.
+Unfortunately exe files almost always get flagged as a virus. You should be able to override and download anyway and/or add the file to your trusted list. I've also chosen to open source the client, that way you can read the code and be sure nothing malicious is going on.
 
-If you're not comfortable running a .exe file on your computer and you have Python installed, then you can follow the instructions below. That way you can personally be sure the script is not doing anything malicious. I understand not a lot a people want to mess around with python scripts which is why I packaged it into a .exe
+If you're not comfortable running a .exe file on your computer and you have Python installed, then you can follow the instructions below. I understand not a lot a people want to mess around with python scripts which is why I packaged it into a .exe.
 
 1. Clone this repository: $ git clone https://github.com/BushtalkRadio/BushtalkClient.git
 2. Run the client with python: $ python BushtalkClient.py
