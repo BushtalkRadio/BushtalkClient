@@ -6,9 +6,9 @@ We have audio tours for all in-game POIs (including Japan and USA update) as wel
 
 There are 3 components to Bushtalk Radio:
 
-* **[Bushtalk Radio website](https://www.bushtalkradio.com)** - This is where our users upload landmarks and POIs. You will also need to have the website open for the audio tours to be played.
+* **[Bushtalk Radio website](https://www.bushtalkradio.com)** - This is where our users upload landmarks and POIs. Once you connect, the audio will be played through the browser so make sure to keep this open.
 
-* **[Bushtalk client](https://bushtalkradioclient-dist.s3.amazonaws.com/BushtalkClient.zip)** - The client is needed to upload your airplane location to our server. This is what allows us to automatically play the audio tour based on your in-game location. Windows may flag it as a virus but this is a false positive. See FAQ below for more information
+* **[Bushtalk client](https://bushtalkradioclient-dist.s3.amazonaws.com/BushtalkClient.zip)** - The client is needed to upload your airplane location to our server. This is what allows us to automatically play the audio tour based on your in-game location. Windows may flag it as a virus but this is a false positive. See FAQ below for more information.
 
 * **(OPTIONAL) [Bushtalk World Landmarks Pack](https://flightsim.to/file/7285/bushtalk-radio-world-landmarks-pack)** - This addon allows you to see all of the custom POI markers in-game. This file will be updated monthly to include all of the landmarks and POIs submitted on the Bushtalk Radio website.
 
@@ -18,15 +18,15 @@ There are 3 components to Bushtalk Radio:
 While you can still use the website on mobile to track your flight, we recommend using the computer you'll be playing MSFS2020 on as the browser needs to be open for the audio tours to be played.
 
 1. Make an account at https://www.bushtalkradio.com and log in
-2. Download the "Bushtalk World Landmarks Pack" addon and install it to your community folder
+2. Download the [Bushtalk World Landmarks Pack](https://flightsim.to/file/7285/bushtalk-radio-world-landmarks-pack) and install it to your community folder
 3. Download the [Bushtalk Client](https://bushtalkradioclient-dist.s3.amazonaws.com/BushtalkClient.zip) and log in
-4. Use our website or the in-game map to find an intresting POI to explore and spawn at the nearest airport
+4. Spawn at a suitable airport near to the landmark you wish to explore
 5. If you've logged in with the client, then you should see your plane being tracked on the website
 6. Fly towards your destination, if you installed the "World Landmarks Pack" then you'll see the POI marker in-game and as you approach the audio tour will play automatically.
 
 ### I don't want to use the client
 
-You can still use Bushtalk Radio without downloading the client but you won't be able track your flight on the map and the audio tour won't play automatically
+You can still use Bushtalk Radio without downloading the client but you won't be able track your flight on our map and the audio tour won't play automatically - you'll have manually play the audio tour during your trip.
 
 1. Make an account at https://www.bushtalkradio.com and log in
 3. Browse the map and find a destination that interests you and note the nearest airport, distance and the heading in the sidebar.
