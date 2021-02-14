@@ -49,7 +49,7 @@ You can send me a message directly on [/u/bushtalkradio](https://www.reddit.com/
 Make sure you're connected with the Bushtalk Radio client AND logged in our website and leave the window open as this is where the audio tour will be played from.
 
 
-#### Thanks and attributions
+## Thanks and attributions
 
 Icons made by [Smashicons](https://www.flaticon.com/authors/smashicons) from [Flaticon](https://www.flaticon.com/)
 Template based on [bymaximus's panel template](https://github.com/bymaximus/msfs2020-toolbar-window-template)
