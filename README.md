@@ -48,7 +48,9 @@ You can send me a message directly on [/u/bushtalkradio](https://www.reddit.com/
 
 Make sure you're connected with the Bushtalk Radio client AND logged in our website and leave the window open as this is where the audio tour will be played from.
 
-### I'm having issues with the cockpit client
+### I'm having issues with the new cockpit client / I prefer the external client
+
+Our old external client is still [available to download here](https://bushtalkradioclient-dist.s3.amazonaws.com/BushtalkExternalClient.zip). This is a python script packaged into a executable so your browser/windows might flag it as a virus but rest assured this is a false positive.
 
 
 ## Thanks and attributions
