@@ -48,6 +48,8 @@ You can send me a message directly on [/u/bushtalkradio](https://www.reddit.com/
 
 Make sure you're connected with the Bushtalk Radio client AND logged in our website and leave the window open as this is where the audio tour will be played from.
 
+### I'm having issues with the cockpit client
+
 
 ## Thanks and attributions
 
