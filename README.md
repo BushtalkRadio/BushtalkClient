@@ -34,6 +34,10 @@ While you can still use the website on mobile to track your flight, we recommend
 5. If you've logged in with the client, then you should see your plane being tracked on the website
 6. Fly towards your destination, if you installed the Landmarks Pack then you'll see the POI marker in-game and as you approach the audio tour will play automatically.
 
+## Explore the world Bush Radar
+
+Coming soon.
+
 ## FAQ
 
 ### I love the idea! How can I support the project?
