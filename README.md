@@ -36,6 +36,8 @@ While you can still use the website on mobile to track your flight, we recommend
 
 ## NEW IN 1.3: Exploring new places with Bush Radar
 
+Bushtalk Radio has thousands of POIs added by players but there has always been one limitation. You can only submit audio tours about places you know. We want to encourage you to explore new locations and make new discoveries to publish with Bushtalk Radio.
+
 Bush Radar is an exploration tool that allows you to find undiscovered POIs while out in the bush. New discoveries can be found on the map as green blips as well as in your Discovery Log. Once you've found something worth sharing, publish it to Bushtalk Radio along with an audio tour. To get started simply turn the radar on from the Discovery Log page. On your next trip, keep an eye out for new Discoveries. 
 
 Publishing new Discoveries can done from the map as you fly, or at the end of a long trip from the Discovery Log. Keep in mind that not all Discoveries are worth publishing, but this is up to you to decide. Open your Discovery in Wikipedia and see what interesting tidbits of information you can find. Did you find the site of a decisive battle or is it just another high school in the suburbs?
