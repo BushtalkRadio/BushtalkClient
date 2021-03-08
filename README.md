@@ -38,15 +38,13 @@ While you can still use the website on mobile to track your flight, we recommend
 
 Bushtalk Radio has thousands of POIs added by players but there has always been one limitation. You can only submit audio tours about places you know. We want to encourage you to explore new locations and make new discoveries to publish with Bushtalk Radio.
 
-Bush Radar is an exploration tool that allows you to find undiscovered POIs while out in the bush. New discoveries can be found on the map as green blips as well as in your Discovery Log. Once you've found something worth sharing, publish it to Bushtalk Radio along with an audio tour. To get started simply turn the radar on from the Discovery Log page. On your next trip, keep an eye out for new Discoveries. 
-
-Publishing new Discoveries can done from the map as you fly, or at the end of a long trip from the Discovery Log. Keep in mind that not all Discoveries are worth publishing, but this is up to you to decide. Open your Discovery in Wikipedia and see what interesting tidbits of information you can find. Did you find the site of a decisive battle or is it just another high school in the suburbs?
-
-Once your Bush Radar is on, it will automatically scan as soon as it's ready. There are 3 attributes to your Bush Radar that you should keep in mind:
+Bush Radar is an exploration tool that allows you to find undiscovered POIs while out in the bush. New discoveries can be found on the map as green blips as well as in your Discovery Log. Once you've found something worth sharing, publish it to Bushtalk Radio along with an audio tour. To get started simply turn the radar on from the Discovery Log page. On your next trip, keep an eye out for new Discoveries. Once your Bush Radar is on, it will automatically scan as soon as it's ready. There are 3 attributes to your Bush Radar that you should keep in mind:
 
 1. **Range** - The range is maximum distance in kilomoters that you're able to scan. This is given as the radius of the scanning area
 2. **Cooldown** - The amount of time between each scan. Bush planes are perfect for ensuring you have optimal coverage between each scan. Keep an eye on your scan history as you fly (faint grey circle) and adjust your speed accordlingly
-3. **Scan limit** - The maximum number of discoveries retrievable in each scan. You are more likely to hit the limit when flying in dense urban areas
+3. **Scan limit** - The maximum number of retrievable discoveries in each scan. You are more likely to hit the limit when flying in dense urban areas
+
+Publishing new Discoveries can done from the map as you fly, or at the end of a long trip from the Discovery Log. Keep in mind that not all Discoveries are worth publishing, but this is up to you to decide. Open your Discovery in Wikipedia and see what interesting tidbits of information you can find. Did you find the site of a decisive battle or is it just another high school in the suburbs?
 
 Stay tuned as we'll be adding different Discovery types and collectables around the world for you to find.
 
