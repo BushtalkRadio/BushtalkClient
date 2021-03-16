@@ -1,8 +1,7 @@
 <a href="https://aimeos.org/">
-    <img src="https://bushtalkradio.com/content/images/apple-touch-icon.png" alt="Aimeos logo" title="Aimeos" align="right" height="60" />
+    <img src="https://bushtalkradio.com/content/images/apple-touch-icon.png" alt="Bushtalk radio logo" title="bushtalkradio-logo" align="left" height="60" />
+    <h1>BUSHTALK RADIO</h1>
 </a>
-
-# Bushtalk Radio
 
 Bushtalk Radio is a community driven project with the aim to fill the world of MSFS with thousands of interesting landmarks and POIs. Each landmark has a unique audio tour that is automatically played based on your in-game location.
 
