@@ -1,5 +1,5 @@
-<a href="https://aimeos.org/">
-    <img src="https://bushtalkradio.com/content/images/apple-touch-icon.png" alt="Bushtalk radio logo" title="bushtalkradio-logo" align="left" height="30" />
+<a href="https://bushtalkradio.com/">
+    <img src="https://bushtalkradio.com/content/images/apple-touch-icon.png" alt="Bushtalk radio logo" title="bushtalkradio-logo" height="30" />
     <h1>BUSHTALK RADIO</h1>
 </a>
 
