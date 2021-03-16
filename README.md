@@ -11,7 +11,7 @@ Have you given up on your travel plans for the foreseeable future? Become a virt
 
 * Submit your own POIs and audio tours, just write the script and we generate the audio!
 
-* Connect to Bushtalk Radio using the cockpit client, plan and track your trip on your browser
+* Plan and track your flight on the Bushtalk Radio website
 
 * Help us map the world by exploring new areas and finding undiscovered POIs using your Bush Radar
 
