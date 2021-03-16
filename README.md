@@ -2,8 +2,9 @@
     <img src="https://bushtalkradio.com/content/images/apple-touch-icon.png" alt="Bushtalk radio logo" title="bushtalkradio-logo" align="right" height="80" />
 <h1>Bushtalk Radio</h1>
 Have you given up on your travel plans for the foreseeable future? Become a virtual tourist with this free addon for MSFS2020! Explore the world while listening to thousands of audio tours from the comfort of your cockpit.
-<br/>
-https://www.bushtalkradio.com
+    
+#### Start exloring at:
+[https://www.bushtalkradio.com](https://www.bushtalkradio.com)
 
 ## Features
 - Thousands of POIs each with an audio tour that is automatically played on arrival
