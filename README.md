@@ -75,12 +75,11 @@ You can send me a message directly on [/u/bushtalkradio](https://www.reddit.com/
 
 ### The audio tours are not playing automatically
 
-Make sure you're connected with the Bushtalk Radio client <b>AND>/b> logged in our website. Do not minimize the browser window. Some browsers do not support audio being autoplayed without user input. For the best experience try using Chrome.
+Make sure you're connected with the Bushtalk Radio client <b>AND></b> logged in our website. Do not minimize the browser window. Some browsers do not support audio being autoplayed without user input. For the best experience try using Chrome.
 
 ### I'm having issues with the new cockpit client and/or I prefer the external client
 
 Our old external client is still [available to download here](https://bushtalkradioclient-dist.s3.amazonaws.com/BushtalkExternalClient.zip). This is a python script packaged into a executable so your browser/windows might flag it as a virus but rest assured this is a false positive.
-
 
 ## Thanks and attributions
 
