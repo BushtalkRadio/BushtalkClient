@@ -7,10 +7,13 @@ Have you given up on your travel plans for the foreseeable future? Become a virt
 [https://www.bushtalkradio.com](https://www.bushtalkradio.com)
 
 ## Features
-- Thousands of POIs each with an audio tour that is automatically played on arrival
-- Submit your own POIs and audio tours, just write the script and we generate the audio!
-- Connect to Bushtalk Radio using the cockpit client, plan and track your trip on your browser
-- Help us map the world by exploring new areas and finding undiscovered POIs using your Bush Radar
+* Thousands of POIs each with an audio tour that is automatically played on arrival
+
+* Submit your own POIs and audio tours, just write the script and we generate the audio!
+
+* Connect to Bushtalk Radio using the cockpit client, plan and track your trip on your browser
+
+* Help us map the world by exploring new areas and finding undiscovered POIs using your Bush Radar
 
 ## What is it?
 
