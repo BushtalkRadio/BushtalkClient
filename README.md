@@ -17,7 +17,7 @@ Have you given up on your travel plans for the foreseeable future? Become a virt
 
 ## What is it?
 
-Bushtalk Radio is a community driven project with the aim to fill the vast world of MSFS with thousands of interesting landmarks and POIs. Each landmark will have an audio tour will play as you approach it.
+Bushtalk Radio is a community driven project with the aim to fill the vast world of MSFS with thousands of interesting landmarks and POIs. Each landmark will have an audio tour that will automatically play as you approach it.
 
 We have audio tours for all in-game POIs (including World Updates for Japan, USA & UK) as well as thousands of community submitted content with more being added every day: mountains, lakes, famous buildings, volcanoes, historical battles or a random bit local trivia - there's something for everyone.
 
@@ -29,7 +29,7 @@ There are 3 components to Bushtalk Radio:
 
 * **[Bushtalk Radio client](https://flightsim.to/file/7898/bushtalk-radio-client-audio-tours-from-your-cockpit)** - The client is needed to upload your airplane location to our server. This is what allows us to automatically play the audio tour based on your in-game location. Drag and drop the folder into your Community folder.
 
-* **[Bushtalk Radio Landmarks Pack](https://flightsim.to/file/7285/bushtalk-radio-world-landmarks-pack)** (OPTIONAL) - This addon allows you to see all of the custom POI markers in-game. This file will be updated monthly to include all of the landmarks and POIs submitted on the Bushtalk Radio website.
+* **[Bushtalk Radio Landmarks Pack](https://flightsim.to/file/7285/bushtalk-radio-world-landmarks-pack)** (OPTIONAL) - This optional addon allows you to see all of the community POI markers in-game. This file will be updated monthly to include all of the landmarks and POIs submitted on the Bushtalk Radio website so if your submissions are mission then wait for next month's update
 
 ### Here are some of the best Bushtalk Radio has to offer
 
@@ -42,8 +42,8 @@ There are 3 components to Bushtalk Radio:
 
 ### I love the idea! How can I support the project?
 
-- Subscribe to our (as of now, empty) [YouTube channel](https://www.youtube.com/channel/UCWV0MK7zQMOyhBG_Dl8l2gQ). In the next week we'll put out some videos showcasing the best that Bushtalk Radio has to offer
-- If you really love what we're doing then [help us pay for server costs](https://www.paypal.com/donate?hosted_button_id=PNDL5HN4K4KJN). Any amount is welcome and goes a long way
+- Subscribe to our (as of now, empty) [YouTube channel](https://www.youtube.com/channel/UCWV0MK7zQMOyhBG_Dl8l2gQ). In the next week or so we'll put out some videos showcasing the best that Bushtalk Radio has to offer
+- If you really love what we're doing then [help us keep this project going by contributing to our server costs](https://www.paypal.com/donate?hosted_button_id=PNDL5HN4K4KJN). Any amount is welcome and goes a long way
 
 ## How to use
 
@@ -52,9 +52,10 @@ While you can still use the website on mobile to track your flight, we recommend
 1. Make an account at https://www.bushtalkradio.com and log in
 2. Download the [Bushtalk World Landmarks Pack](https://flightsim.to/file/7285/bushtalk-radio-world-landmarks-pack) and install it to your community folder
 3. Download the [Bushtalk Radio Client](https://flightsim.to/file/7898/bushtalk-radio-client-audio-tours-from-your-cockpit) and log in
-4. Spawn at a suitable airport near to the landmark you wish to explore
-5. If you've logged in with the client, then you should see your plane being tracked on the website
+4. Choose a suitable departure airport to the landmark you wish to explore. (TIP: our website will tell you the nearest airport if you click on the POI)
+5. If you've logged in with the client, you will see your plane being tracked on the website
 6. Fly towards your destination, if you installed the Landmarks Pack then you'll see the POI marker in-game and as you approach the audio tour will play automatically.
+7. **Remember that you need to logged in with the client AND the website, otherwise the audio will not play!**
 
 ## NEW IN 1.3: Exploring new places with Bush Radar
 
