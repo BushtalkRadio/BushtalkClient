@@ -7,7 +7,7 @@ Have you given up on your travel plans for the foreseeable future? Become a virt
 [https://www.bushtalkradio.com](https://www.bushtalkradio.com)
 
 ## Features
-* Thousands of POIs each with an audio tour that is automatically played on arrival
+* Thousands of new POIs each with an audio tour that is automatically played on arrival
 
 * Submit your own POIs and audio tours, just write the script and we generate the audio!
 
