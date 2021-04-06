@@ -56,6 +56,7 @@ While you can still use the website on mobile to track your flight, we recommend
 5. If you've logged in with the client, you will see your plane being tracked on the website
 6. Fly towards your destination, if you installed the Landmarks Pack then you'll see the POI marker in-game and as you approach the audio tour will play automatically.
 7. **Remember that you need to logged in with the client AND the website, otherwise the audio will not play!**
+8. Not compatible with VFRMap addon, we'll be fixing this soon.
 
 ## NEW IN 1.3: Exploring new places with Bush Radar
 
@@ -76,6 +77,10 @@ Stay tuned as we'll be adding different Discovery types and collectables around 
 ### I have a feature request or bug to report
 
 You can send me a message directly on [/u/bushtalkradio](https://www.reddit.com/user/bushtalkradio), email me at admin@bushtalkradio.com or through the feedback form on our webite via the '+' button.
+
+### The client causes my game to crash to desktop
+
+This is probably due to a conflict with the VFRMap addon, or another addon that uses the MSFS toolbar. We'll be fixing this in the future. In the meantime, remove VFRMap from your community folder, or use our external client (see below).
 
 ### The audio tours are not playing automatically
 
