@@ -31,6 +31,19 @@ There are 3 components to Bushtalk Radio:
 
 * **[Bushtalk Radio Landmarks Pack](https://flightsim.to/file/7285/bushtalk-radio-world-landmarks-pack)** (OPTIONAL) - This optional addon allows you to see all of the community POI markers in-game. This file will be updated monthly to include all of the landmarks and POIs submitted on the Bushtalk Radio website so if your submissions are mission then wait for next month's update
 
+## How to use
+
+While you can still use the website on mobile to track your flight, we recommend using the computer you'll be playing MSFS2020 on as the browser needs to be open for the audio tours to be played.
+
+1. Make an account at https://www.bushtalkradio.com and log in
+2. Download the [Bushtalk World Landmarks Pack](https://flightsim.to/file/7285/bushtalk-radio-world-landmarks-pack) and install it to your community folder
+3. Download the [Bushtalk Radio Client](https://flightsim.to/file/7898/bushtalk-radio-client-audio-tours-from-your-cockpit) and log in
+4. Choose a suitable departure airport to the landmark you wish to explore. (TIP: our website will tell you the nearest airport if you click on the POI)
+5. If you've logged in with the client, you will see your plane being tracked on the website
+6. Fly towards your destination, if you installed the Landmarks Pack then you'll see the POI marker in-game and as you approach the audio tour will play automatically.
+7. **Remember that you need to logged in with the client AND the website, otherwise the audio will not play!**
+8. Read the FAQ below if you have any issues
+
 ### Here are some of the best Bushtalk Radio has to offer
 
 1. [Second Punic War: Battle of Cannae ](https://bushtalkradio.com/?landmark=1437) - part of a 11-part audio tour covering the Second Punic War
@@ -45,18 +58,6 @@ There are 3 components to Bushtalk Radio:
 - Subscribe to our (as of now, empty) [YouTube channel](https://www.youtube.com/channel/UCWV0MK7zQMOyhBG_Dl8l2gQ). In the next week or so we'll put out some videos showcasing the best that Bushtalk Radio has to offer
 - If you really love what we're doing then [help us keep this project going by contributing to our server costs](https://www.paypal.com/donate?hosted_button_id=PNDL5HN4K4KJN). Any amount is welcome and goes a long way
 
-## How to use
-
-While you can still use the website on mobile to track your flight, we recommend using the computer you'll be playing MSFS2020 on as the browser needs to be open for the audio tours to be played.
-
-1. Make an account at https://www.bushtalkradio.com and log in
-2. Download the [Bushtalk World Landmarks Pack](https://flightsim.to/file/7285/bushtalk-radio-world-landmarks-pack) and install it to your community folder
-3. Download the [Bushtalk Radio Client](https://flightsim.to/file/7898/bushtalk-radio-client-audio-tours-from-your-cockpit) and log in
-4. Choose a suitable departure airport to the landmark you wish to explore. (TIP: our website will tell you the nearest airport if you click on the POI)
-5. If you've logged in with the client, you will see your plane being tracked on the website
-6. Fly towards your destination, if you installed the Landmarks Pack then you'll see the POI marker in-game and as you approach the audio tour will play automatically.
-7. **Remember that you need to logged in with the client AND the website, otherwise the audio will not play!**
-8. Not compatible with VFRMap addon, we'll be fixing this soon.
 
 ## NEW IN 1.3: Exploring new places with Bush Radar
 
