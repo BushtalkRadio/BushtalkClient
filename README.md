@@ -6,6 +6,8 @@ Have you given up on your travel plans for the foreseeable future? Become a virt
 
 [https://www.bushtalkradio.com](https://www.bushtalkradio.com)
 
+Join our Discord! [https://discord.gg/ZcGgw9mUqA](https://www.bushtalkradio.com)
+
 ## Features
 * Thousands of new POIs each with an audio tour that is automatically played on arrival
 
