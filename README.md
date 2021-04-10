@@ -4,6 +4,7 @@
 # Bushtalk Radio
 Have you given up on your travel plans for the foreseeable future? Become a virtual tourist with this free addon for MSFS2020! Explore the world while listening to thousands of audio tours from the comfort of your cockpit.
 
+Visit us!
 [https://www.bushtalkradio.com](https://www.bushtalkradio.com)
 
 Join our Discord! 
