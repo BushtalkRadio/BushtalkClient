@@ -7,6 +7,7 @@ Have you given up on your travel plans for the foreseeable future? Become a virt
 [https://www.bushtalkradio.com](https://www.bushtalkradio.com)
 
 Join our Discord! [https://discord.gg/ZcGgw9mUqA](https://www.bushtalkradio.com)
+Read about us in the MSFS Community Spotlight: [https://www.flightsimulator.com/community-spotlight-bushtalk-radio/](https://www.flightsimulator.com/community-spotlight-bushtalk-radio/)
 
 ## Features
 * Thousands of new POIs each with an audio tour that is automatically played on arrival
