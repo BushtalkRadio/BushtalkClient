@@ -2,10 +2,10 @@
     <img src="https://bushtalkradio.com/content/images/apple-touch-icon.png" alt="Bushtalk radio logo" title="bushtalkradio-logo" align="right" height="80" />
     
 # Bushtalk Radio
-Have you given up on your travel plans for the foreseeable future? Become a virtual tourist with this free addon for MSFS2020! Explore the world while listening to thousands of audio tours from the comfort of your cockpit.
 
-Visit us!
 [https://www.bushtalkradio.com](https://www.bushtalkradio.com)
+
+Have you given up on your travel plans for the foreseeable future? Become a virtual tourist with this free addon for MSFS2020! Explore the world while listening to thousands of audio tours from the comfort of your cockpit.
 
 Join our Discord! 
 [https://discord.gg/ZcGgw9mUqA](https://discord.gg/ZcGgw9mUqA)
