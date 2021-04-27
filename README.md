@@ -36,7 +36,7 @@ There are 3 components to Bushtalk Radio:
 
 * **[Bushtalk Radio website](https://www.bushtalkradio.com)** - This is where our users upload landmarks and POIs. Once you connect, the audio will be played through the browser so make sure to keep this open.
 
-* **[Bushtalk Radio client](https://flightsim.to/file/7898/bushtalk-radio-client-audio-tours-from-your-cockpit)** - The client is needed to upload your airplane location to our server. This is what allows us to automatically play the audio tour based on your in-game location. Drag and drop the folder into your Community folder. Once in the cockpit, press "TAB" to bring up the MSFS toolbar and log in with your account
+* **[Bushtalk client](https://flightsim.to/file/7898/bushtalk-radio-client-audio-tours-from-your-cockpit)** - The client is needed to upload your airplane location to our server. This is what allows us to automatically play the audio tour based on your in-game location. Drag and drop the folder into your Community folder. Once in the cockpit, press "TAB" to bring up the MSFS toolbar and log in with your account
 
 * **[Bushtalk Radio Landmarks Pack](https://flightsim.to/file/7285/bushtalk-radio-world-landmarks-pack)** (OPTIONAL) - This optional addon allows you to see all of the community POI markers in-game. This file will be **updated monthly** to include all of the landmarks and POIs submitted on the Bushtalk Radio website so if your submissions are mission then wait for next month's update
 
