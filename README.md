@@ -3,34 +3,22 @@
     
 # Bushtalk Radio
 
-[https://www.bushtalkradio.com](https://www.bushtalkradio.com)
+Have you given up on your travel plans for the foreseeable future? Become a virtual tourist with this free addon for MSFS2020! Explore the world while listening to thousands of audio tours, local radio and even videos from the comfort of your cockpit. Hate tourists? Become an explorer instead and help us map all of the world's undiscovered POIs by using your Bush Radar on your next flight.
 
-Have you given up on your travel plans for the foreseeable future? Become a virtual tourist with this free addon for MSFS2020! Explore the world while listening to thousands of audio tours from the comfort of your cockpit.
-
-Join our Discord to keep up with new features! 
-[https://discord.gg/ZcGgw9mUqA](https://discord.gg/ZcGgw9mUqA)
-
-MSFS Community Spotlight:
-[https://www.flightsimulator.com/community-spotlight-bushtalk-radio/](https://www.flightsimulator.com/community-spotlight-bushtalk-radio/)
+[Join our Discord to keep up with new features!](https://discord.gg/ZcGgw9mUqA)
 
 ## Features
 
 * Thousands of new POIs each with an audio tour that is automatically played on arrival
-
 * Submit your own POIs and audio tours, just write the script and we generate the audio!
-
 * Help us map the world by exploring new areas and finding undiscovered POIs using your Bush Radar
-
-* Tune in to local radio en route to your next destination!
-
+* Tune in to local radio or watch videos relevant to your current location!
 
 ## What is it?
 
-Bushtalk Radio is a community driven project with the aim to fill the vast world of MSFS with thousands of interesting landmarks and POIs. Each landmark will have an audio tour that will automatically play as you approach it.
+Bushtalk Radio is a community driven project with the aim to fill the vast world of MSFS with thousands of interesting landmarks and POIs. Each landmark will have an audio tour that will automatically play as you approach it. We have audio tours for all in-game POIs (including World Updates for Japan, USA, UK & Belenux) as well as thousands of community submitted content with more being added every day: mountains, skycrapers, volcanoes, historical battles or a random bit of local trivia - there's something for everyone.
 
-We have audio tours for all in-game POIs (including World Updates for Japan, USA, UK & Belenux) as well as thousands of community submitted content with more being added every day: mountains, lakes, famous buildings, volcanoes, historical battles or a random bit local trivia - there's something for everyone.
-
-Users can add custom locations and write their own audio tours. Just write an interesting, witty script and we'll create the audio tour for you. Not the creative type? Autogenerate one with our Wikipedia Import tool, we won't judge you. We want to introduce players to amazing locations around the world. Add them as part of your next bush trip or fly aimlessly and stumble into something special.
+Users can submit new locations or discover it using your Bush Radar. Once you find a location to submit, just write an interesting, witty script and we'll create the audio tour for you. Not the creative type? Autogenerate one with our Wikipedia Import tool, we won't judge you. We want to introduce players to amazing locations around the world. Add them as part of your next bush trip or fly aimlessly and stumble into something special.
 
 There are 3 components to Bushtalk Radio:
 
