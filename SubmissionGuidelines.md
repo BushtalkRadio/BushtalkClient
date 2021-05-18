@@ -7,9 +7,13 @@ What should you submit? A good rule of thumb is to ask yourself what you found i
 ## Rules
 
 • **Always proof read** your script before submission.
+
 • Audio tours should be **in English** and with proper punctuation, making sure there's always a space after the fullstop or comma.
+
 • Submit tangible POIs rather than regions. Avoid states, counties, countries, etc
+
 • If the imported article includes a list, please remove it as it does not work well in audio format.
+
 • Do not include unnecessarily large numbers or co-ordinates in the script
 
 ## Guidelines
