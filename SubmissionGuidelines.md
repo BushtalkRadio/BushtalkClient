@@ -1,12 +1,13 @@
 # Submission Guidelines
 
-Generating audio from user scripts make up a large part of our server costs. To help keep these costs down and provide the best experience for fellow listeners, we ask that you follow certain rules and guidelines. Try not to blindly rely on the Wikipedia import tool, the imported script can always be improved. We've added that feature to give you a good starting point.
+Generating audio from user scripts make up a large part of our server costs. To help keep these costs down and provide the best experience for fellow listeners, we ask that you follow certain rules and guidelines. Try not to blindly rely on the Wikipedia import tool, the imported script can **always** be improved. We've added that feature to give you a good starting point but you are welcome to use different sources.
 
-What should you submit? A good rule of thumb is to ask yourself what you found interesting about the POI you're about to submit. A lot of Wikipedia articles will be about mundane things which won't necessarily be interesting to a fellow listener.
+What should you submit? A good rule of thumb is to ask yourself what you found interesting about the POI you're about to submit. A lot of Wikipedia articles will be about mundane things which won't necessarily be interesting to a fellow listener. Take [this wikipedia article of a village in Cape Verde](https://en.wikipedia.org/wiki/Longueira,_Cape_Verde), it's just a couple of descriptive forgettable sentences. In this scenario, you could try to find interesting trivia about the village somewhere else and revise your submission. Remember, we're not trying to map everything, just the interesting locations!
+
 
 ## Rules
 
-• **Always proof read** your script before submission.
+• **Always proof read** your script before submission. Certain things do not work well in audio format, you can only catch this by proof reading it.
 
 • Audio tours should be **in English** and with proper punctuation, making sure there's always a space after the fullstop or comma.
 
@@ -14,7 +15,9 @@ What should you submit? A good rule of thumb is to ask yourself what you found i
 
 • If the imported article includes a list, please remove it as it does not work well in audio format.
 
-• Do not include unnecessarily large numbers or co-ordinates in the script
+• Do not include unnecessarily large numbers or co-ordinates in the script, it doesn't work well in audio format
+
+• Do not include secondary information inside brackets, such as translations, acronymns or unit conversions as these tend to break up the flow of the audio.
 
 ## Guidelines
 
