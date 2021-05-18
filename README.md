@@ -39,7 +39,7 @@ While you can still use the website on mobile to track your flight, we recommend
 5. If you've logged in with the client, you will see your plane being tracked on the website
 6. Fly towards your destination, if you installed the Landmarks Pack then you'll see the POI marker in-game and as you approach the audio tour will play automatically.
 7. **Remember that you need to logged in with the client AND the website, otherwise the audio will not play!**
-8. Read the FAQ below if you have any issues
+8. Ready to submit your own audio tour? Please read our [Submission Guidelines](https://github.com/BushtalkRadio/BushtalkClient/blob/master/SubmissionGuidelines.md) first!
 
 ### Here are some of the best Bushtalk Radio has to offer
 
