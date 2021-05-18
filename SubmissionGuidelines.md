@@ -25,11 +25,11 @@ What should you submit? A good rule of thumb is to ask yourself what you found i
 
 • Select an appropriate autoplay distance to make sure it doesn't clash with other landmarks. Only use 10km for exceptionally large landmarks such as mountains and large lakes
 
-• If you spot bad audio while out in the bush, please flag the landmark so we can improve them. Please rate good submissions to let authors know you enjoyed them!
-
-• Avoid secondary information inside brackets, especially translations, acronymns or unit conversions as these tend to break up the flow of the audio.
-
 • Use commas sparingly as the generator tends to over exaggerate the pauses.
+
+• Always strive to include one or two unique, unusual, or humorous facts.
+
+• If you spot bad audio while out in the bush, please flag the landmark so we can improve them. Please rate good submissions to let authors know you enjoyed them!
 
 ## Examples
 
