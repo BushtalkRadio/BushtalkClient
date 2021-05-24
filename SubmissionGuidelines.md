@@ -9,7 +9,7 @@ What should you submit? A good rule of thumb is to ask yourself what you found i
 
 • **Always proof read** your script before submission. Certain things do not work well in audio format, you can only catch this by proof reading it.
 
-• Audio tours should be **in English** and with proper punctuation, making sure there's always a space after the fullstop or comma.
+• Audio tours should be **in English** and with proper punctuation, making sure there's always a space after the fullstop or comma. 
 
 • Submit tangible POIs rather than regions. Avoid states, counties, countries, etc
 
@@ -17,7 +17,7 @@ What should you submit? A good rule of thumb is to ask yourself what you found i
 
 • Do not include unnecessarily large numbers or co-ordinates in the script, it doesn't work well in audio format
 
-• Do not include secondary information inside brackets, such as translations, acronymns or unit conversions as these tend to break up the flow of the audio.
+• Do not include secondary information inside brackets, such as translations, acronymns or unit conversions as these tend to break up the flow of the audio. If the information inside brackets is important then rewrite the sentence without brackets.
 
 ## Guidelines
 
