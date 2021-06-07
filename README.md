@@ -28,6 +28,8 @@ There are 3 components to Bushtalk Radio:
 
 * **[Bushtalk Radio Landmarks Pack](https://flightsim.to/file/7285/bushtalk-radio-world-landmarks-pack)** (OPTIONAL) - This optional addon allows you to see all of the community POI markers in-game and LittleNavMap. This file will be **updated monthly** to include all of the landmarks and POIs submitted on the Bushtalk Radio website so if your submissions are mission then wait for next month's update
 
+* **Bushtalk Radio Liveries** (OPTIONAL) - Fly in style with the amazing liveries by Rockview101: [CubCrafters XCub](https://flightsim.to/file/15253/cubcrafters-xcub-bushtalk-radio-livery), [CubCrafters XCub Float](https://flightsim.to/file/15916/cubcrafters-xcub-float-bushtalk-radio-livery), [Cessna 172 (G1000)](https://flightsim.to/file/15917/cessna-172-g1000-bushtalk-radio-livery) and [Cessna 172 (Classic)](https://flightsim.to/file/15918/cessna-172-classic-bushtalk-radio-livery)
+
 ## How to use
 
 While you can still use the website on mobile to track your flight, we recommend using the computer you'll be playing MSFS2020 on as the browser needs to be open for the audio tours to be played.
