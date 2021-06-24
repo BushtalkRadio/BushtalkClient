@@ -58,7 +58,7 @@ Help us pay for server costs and develop exciting new features by:
 
 - [Becoming a Patreon and get unlimited POI submissions](https://www.patreon.com/bushtalkradio).
 - [A one time donation through PayPal](https://www.paypal.com/donate?hosted_button_id=PNDL5HN4K4KJN). Any amount is welcome and goes a long way.
-- Subscribe to our (as of now, empty) [YouTube channel](https://www.youtube.com/channel/UCWV0MK7zQMOyhBG_Dl8l2gQ). In the next week or so we'll put out some videos showcasing the best that Bushtalk Radio has to offer
+- Subscribe to our  [YouTube channel](https://www.youtube.com/channel/UCWV0MK7zQMOyhBG_Dl8l2gQ). We'll put out some videos showcasing the best that Bushtalk Radio has to offer
 
 ## NEW IN 1.3: Exploring new places with Bush Radar
 
