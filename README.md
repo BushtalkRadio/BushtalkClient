@@ -42,7 +42,7 @@ While you can still use the website on mobile to track your flight, we recommend
 2. Download the [Bushtalk World Landmarks Pack](https://flightsim.to/file/7285/bushtalk-radio-world-landmarks-pack) and install it to your community folder
 3. Download the [Bushtalk Radio Client](https://flightsim.to/file/7898/bushtalk-radio-client-audio-tours-from-your-cockpit) and log in
 4. Choose a suitable departure airport to the landmark you wish to explore. (TIP: our website will tell you the nearest airport if you click on the POI)
-5. If you've logged in with the client, you will see your plane being tracked on the website
+5. Once in your cockpit, open the Bushtalk Radio client from your cockpit toolbar and log in. You are now tuned in to Bushtalk Radio and you should see yourself on the Bushtalk Radio website. You can minimize or close the client and it will continue tracking in the background
 6. Fly towards your destination, if you installed the Landmarks Pack then you'll see the POI marker in-game and as you approach the audio tour will play automatically.
 7. **Remember that you need to logged in with the client AND the website, otherwise the audio will not play!**
 8. Ready to submit your own audio tour? Please read our [Submission Guidelines](https://github.com/BushtalkRadio/BushtalkClient/blob/master/SubmissionGuidelines.md) first!
