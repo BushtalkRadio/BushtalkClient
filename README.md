@@ -47,24 +47,24 @@ While you can still use the website on mobile to track your flight, we recommend
 7. **Remember that you need to logged in with the client AND the website, otherwise the audio will not play!**
 8. Ready to submit your own audio tour? Please read our [Submission Guidelines](https://github.com/BushtalkRadio/BushtalkClient/blob/master/SubmissionGuidelines.md) first!
 
-### Here are some of the best Bushtalk Radio has to offer
+### Can't think of where to go? Try completing our curated collections
 
-1. [Second Punic War: Battle of Cannae ](https://bushtalkradio.com/?landmark=1437) - part of a 11-part audio tour covering the Second Punic War
-2. [World's Largest Beaver Dam ](https://bushtalkradio.com/?landmark=1426) - a dam so big that can be seen from space
-3. [Sinking of the Titanic](https://bushtalkradio.com/?landmark=1425) - a tragic loss of life in the middle of the Atlantic
-4. [Fordlândia](https://bushtalkradio.com/?landmark=1220) - a failed experiment deep in the Amazon
-5. [Galápagos Islands](https://bushtalkradio.com/?landmark=1397) - Many islands and volcanoes in close proximity. Find out what makes this place so unique.
+1. [Second Punic War](https://bushtalkradio.com/collections/11) - 11-part collection covering the Second Punic War
+2. [Galápagos Islands](https://bushtalkradio.com/collections/15) - Many islands and volcanoes in close proximity. Find out what makes this place so unique
+3. [World's Largest Beaver Dam ](https://bushtalkradio.com/?landmark=1426) - a dam so big that can be seen from space
+4. [Sinking of the Titanic](https://bushtalkradio.com/?landmark=1425) - a tragic loss of life in the middle of the Atlantic
+5. [Fordlândia](https://bushtalkradio.com/?landmark=1220) - a failed experiment deep in the Amazon
 6. [Flevoland](https://bushtalkradio.com/?landmark=1591) - If god built the world, then the Dutch built the Netherlands. Find out why
 
 ### I love the idea! How can I support the project?
 
 Help us pay for server costs and develop exciting new features by: 
 
-- [Becoming a Patreon and get unlimited POI submissions](https://www.patreon.com/bushtalkradio).
+- [Becoming a Patreon and get unlimited POI submissions and create Collections](https://www.patreon.com/bushtalkradio).
 - [A one time donation through PayPal](https://www.paypal.com/donate?hosted_button_id=PNDL5HN4K4KJN). Any amount is welcome and goes a long way.
 - Subscribe to our  [YouTube channel](https://www.youtube.com/channel/UCWV0MK7zQMOyhBG_Dl8l2gQ). We'll put out some videos showcasing the best that Bushtalk Radio has to offer
 
-## NEW IN 1.3: Exploring new places with Bush Radar
+## HOW TO: Find undiscovered POIs using your Bush Radar
 
 Bushtalk Radio has thousands of POIs added by players but there has always been one limitation. You can only submit audio tours about places you know. We want to encourage you to explore new locations and make new discoveries to publish with Bushtalk Radio.
 
@@ -82,7 +82,7 @@ Stay tuned as we'll be adding different Discovery types and collectables around 
 
 ### The audio tours are not playing automatically
 
-Make sure you're connected with the Bushtalk Radio client <b>AND></b> logged in our website. Do not minimize the browser window. Some browsers do not support audio being autoplayed without user input. For the best experience try using Chrome.
+Make sure you're connected with the Bushtalk Radio client <b>AND></b> logged in our website. Do not minimize the browser window. Some browsers do not support audio being autoplayed without user input. For the best experience try using Chrome. Manually play an audio tour on the website to make sure your browser isn't muted.
 
 ### I have a feature request or bug to report
 
