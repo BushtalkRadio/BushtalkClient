@@ -14,9 +14,18 @@ Have you given up on your travel plans for the foreseeable future? Become a virt
 * Help us map the world by exploring new areas and finding undiscovered POIs using your Bush Radar
 * Tune in to local radio or watch videos relevant to your current location!
     
-### Playing on console? You can still join in
+### Playing on console? You can still join in!
 
 While you won't be able to use the Bushtalk Radio client on the Xbox to connect to our servers, you can still use the Bushtalk Radio website to find interesting locations, once you arrive at your destination (we give you easy directions from the nearest airport) you can press play and your audio tour will start. You'll need a spare laptop or iPad alongside your console to do this.
+    
+### Also compatible with X-PLANE 11 and Infinite Flight
+    
+Bushtalk Radio is also compatible with X-PLANE 11 and Infinite Flight. For more information on how to connect, check out these links:
+    
+* X-Plane 11: Connect to Bushtalk Radio via [X-Plane 11 client](https://github.com/flightdeck-to/bushtalkradio-xplane). Huge thanks to @rootdevelop for this client
+    
+* Infinite Flight: [Connect to Bushtalk Radio via In-Flight Assistant](https://apps.apple.com/us/app/in-flight-assistant/id1180642964). Huge thanks to @epaga for bring Bushtalk Radio to the mobile sim community!
+
 
 ## What is it?
 
