@@ -71,7 +71,7 @@ Stay tuned as we'll be adding different Discovery types and collectables around 
 
 ### The audio tours are not playing automatically
 
-Make sure you're connected with the Bushtalk Radio client <b>AND></b> logged in our website. Do not minimize the browser window. Some browsers do not support audio being autoplayed without user input, so if yours isn't working then try another browser. Manually play an audio tour on the website to make sure your browser isn't muted.
+Make sure you're connected with the Bushtalk Radio client <b>AND</b> logged in our website. Do not minimize the browser window. Some browsers do not support audio being autoplayed without user input, so if yours isn't working then try another browser. Manually play an audio tour on the website to make sure your browser isn't muted.
 
 ### I have a feature request or bug to report
 
