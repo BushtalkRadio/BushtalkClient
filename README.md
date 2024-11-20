@@ -3,7 +3,7 @@
     
 # Bushtalk Radio
 
-_Transform Microsoft Flight Simulator into a world adventure with Bushtalk Radio – your virtual passport to the world's most fascinating stories, all from the cockpit!_
+_Transform Microsoft Flight Simulator into a world adventure with Bushtalk Radio – your virtual passport to the world's most fascinating location, all from the cockpit!_
 
 Bushtalk Radio is a community driven project with the aim to fill the world of MSFS 2020/24 with thousands of interesting landmarks, POIs and local radio stations! Each POI has a unique audio tour that is automatically played based on your in-game location. Here's [a video of how it works in practice by ObsidianAnt](https://www.youtube.com/watch?v=GMOGyitVrnY).
 
