@@ -26,16 +26,14 @@ There are 3 components to Bushtalk Radio:
 
 * **[Bushtalk Radio website](https://www.bushtalkradio.com)** - This is our website where you will see your locoation and all the content we have to offer. Once you connect with the client, the audio will be played through the browser so make sure to keep this open.
 
-* **[Bushtalk client](https://flightsim.to/file/7898/bushtalk-radio-client-audio-tours-from-your-cockpit)** - The client is needed to upload your airplane location to our server. This is what allows us to automatically play the audio tour based on your in-game location. Drag and drop the folder into your [Community folder](https://helpdesk.aerosoft.com/hc/en-gb/articles/5023507568925-How-to-locate-the-Community-folder-in-Microsoft-Flight-Simulator). Once in the cockpit, press "TAB" to bring up the MSFS toolbar and log in with your account
+* **[Bushtalk EFB Client](https://flightsim.to/file/7898/bushtalk-radio-client-audio-tours-from-your-cockpit)** - The client is needed to upload your airplane location to our server. This is what allows us to automatically play the audio tour based on your in-game location. Drag and drop the folder into your [Community folder](https://helpdesk.aerosoft.com/hc/en-gb/articles/5023507568925-How-to-locate-the-Community-folder-in-Microsoft-Flight-Simulator). Once in the cockpit, press "TAB" the EFB client in MSFS2024 (or the toolbar client if using MSFS2020) and log in with your account
 
 * **[Bushtalk Radio Landmarks Pack](https://flightsim.to/file/7285/bushtalk-radio-world-landmarks-pack)** (OPTIONAL) - This optional addon allows you to see all of the community POI markers in-game and LittleNavMap. This file will be updated from time to time to include all of the landmarks and POIs submitted on the Bushtalk Radio website so if your submissions are missing then wait for the next update
-
-* **Bushtalk Radio Liveries** (OPTIONAL) - Fly in style with the amazing liveries by Rockview101: [CubCrafters XCub](https://flightsim.to/file/15253/cubcrafters-xcub-bushtalk-radio-livery), [CubCrafters XCub Float](https://flightsim.to/file/15916/cubcrafters-xcub-float-bushtalk-radio-livery), [Cessna 172 (G1000)](https://flightsim.to/file/15917/cessna-172-g1000-bushtalk-radio-livery) and [Cessna 172 (Classic)](https://flightsim.to/file/15918/cessna-172-classic-bushtalk-radio-livery)
 
 ## How to use
 
 1. Make an account at [Bushtalk Radio](https://www.bushtalkradio.com/login?) and log in (you may also use a tablet for this)
-2. Download the [Bushtalk Radio Client](https://flightsim.to/file/7898/bushtalk-radio-client-audio-tours-from-your-cockpit) and log in
+2. Download the [Bushtalk Radio EFB Client](https://flightsim.to/file/7898/bushtalk-radio-client-audio-tours-from-your-cockpit) and log in
 4. Choose a suitable departure airport to the landmark you wish to explore. (TIP: our website will tell you the nearest airport if you click on the POI)
 5. Once in your cockpit, open the Bushtalk Radio client from your cockpit toolbar and log in. You are now tuned in to Bushtalk Radio and you should see yourself on the Bushtalk Radio website. You can minimise the client but don't close it or you will lose tracking
 6. Fly towards your destination, if you installed the Landmarks Pack then you'll see the POI marker in-game and as you approach the audio tour will play automatically.
